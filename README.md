@@ -1,4 +1,4 @@
-# Magic Print - An E-Commerce App for Android with Material Design Pattern Using Firebase and MySQL
+# Toko Ajaib - An E-Commerce App for Android with Material Design Pattern Using Firebase and MySQL
 
 MySQL has been used for user registration and login whereas firebase is being user for data maintenance such as user cart , wishlist , placing ording, listing orders etc !
 
@@ -108,3 +108,8 @@ Log it into Issue Tracker and will give fix soon.
  - android shopping cart source code download	
  - android shopping app source code free download
  - open source android ecommerce app
+
+<br/>
+Mushlihun
+<br/>
++62081250230240
